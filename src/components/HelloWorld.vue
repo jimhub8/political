@@ -85,7 +85,7 @@ export default {
         mySlider,
     },
     mounted() {
-        this.loader();
+        // this.loader();
         eventBus.$emit('loadingEvent')
     },
 }

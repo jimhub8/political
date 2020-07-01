@@ -9,7 +9,7 @@
                             <div class="elementor-widget-container">
                                 <div class="elementor-image">
                                     <a href="/our-principles/">
-                                        <img width="569" height="253" src="http://partiso.axiomthemes.com/wp-content/uploads/2019/01/img-2-copyright.jpg" class="attachment-full size-full" alt="" srcset="http://partiso.axiomthemes.com/wp-content/uploads/2019/01/img-2-copyright.jpg 569w, http://partiso.axiomthemes.com/wp-content/uploads/2019/01/img-2-copyright-300x133.jpg 300w, http://partiso.axiomthemes.com/wp-content/uploads/2019/01/img-2-copyright-370x165.jpg 370w" sizes="(max-width: 569px) 100vw, 569px"> </a>
+                                        <img width="569" height="253" src="https://partiso.axiomthemes.com/wp-content/uploads/2019/01/img-2-copyright.jpg" class="attachment-full size-full" alt="" srcset="https://partiso.axiomthemes.com/wp-content/uploads/2019/01/img-2-copyright.jpg 569w, http://partiso.axiomthemes.com/wp-content/uploads/2019/01/img-2-copyright-300x133.jpg 300w, http://partiso.axiomthemes.com/wp-content/uploads/2019/01/img-2-copyright-370x165.jpg 370w" sizes="(max-width: 569px) 100vw, 569px"> </a>
                                 </div>
                             </div>
                         </div>
@@ -57,7 +57,7 @@
                             <div class="elementor-widget-container">
                                 <div class="elementor-image">
                                     <a href="/our-principles/">
-                                        <img width="569" height="253" src="http://partiso.axiomthemes.com/wp-content/uploads/2019/01/img-3-copyright.jpg" class="attachment-full size-full" alt="" srcset="http://partiso.axiomthemes.com/wp-content/uploads/2019/01/img-3-copyright.jpg 569w, http://partiso.axiomthemes.com/wp-content/uploads/2019/01/img-3-copyright-300x133.jpg 300w, http://partiso.axiomthemes.com/wp-content/uploads/2019/01/img-3-copyright-370x165.jpg 370w" sizes="(max-width: 569px) 100vw, 569px"> </a>
+                                        <img width="569" height="253" src="https://partiso.axiomthemes.com/wp-content/uploads/2019/01/img-3-copyright.jpg" class="attachment-full size-full" alt="" srcset="https://partiso.axiomthemes.com/wp-content/uploads/2019/01/img-3-copyright.jpg 569w, http://partiso.axiomthemes.com/wp-content/uploads/2019/01/img-3-copyright-300x133.jpg 300w, http://partiso.axiomthemes.com/wp-content/uploads/2019/01/img-3-copyright-370x165.jpg 370w" sizes="(max-width: 569px) 100vw, 569px"> </a>
                                 </div>
                             </div>
                         </div>
