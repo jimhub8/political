@@ -160,7 +160,7 @@
                                                                 </div>
                                                                 <div class="sc_layouts_item elementor-element elementor-element-50e09b5 sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="50e09b5" data-element_type="widget" data-widget_type="trx_sc_button.default">
                                                                     <div class="elementor-widget-container">
-                                                                        <a href="http://partiso.axiomthemes.com/contacts/" id="trx_sc_button_448319086" class="sc_button color_style_link2 sc_button_default sc_button_size_normal sc_button_icon_left"><span class="sc_button_text"><span class="sc_button_title">connect with us</span></span><!-- /.sc_button_text --></a><!-- /.sc_button -->
+                                                                        <a href="https://partiso.axiomthemes.com/contacts/" id="trx_sc_button_448319086" class="sc_button color_style_link2 sc_button_default sc_button_size_normal sc_button_icon_left"><span class="sc_button_text"><span class="sc_button_title">connect with us</span></span><!-- /.sc_button_text --></a><!-- /.sc_button -->
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -205,7 +205,7 @@
 <style scoped>
 .elementor-496 .elementor-element.elementor-element-eac0f38:not(.elementor-motion-effects-element-type-background),
 .elementor-496 .elementor-element.elementor-element-eac0f38>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("http://partiso.axiomthemes.com/wp-content/uploads/2018/10/bg-4-copyright.jpg");
+    background-image: url("https://partiso.axiomthemes.com/wp-content/uploads/2018/10/bg-4-copyright.jpg");
     background-size: cover;
 }
 

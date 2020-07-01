@@ -11,7 +11,7 @@
                                     <div class="elementor-widget-wrap">
                                         <div class="sc_layouts_item elementor-element elementor-element-32cbc66 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="32cbc66" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
                                             <div class="elementor-widget-container">
-                                                <a href="http://partiso.axiomthemes.com/" id="trx_sc_layouts_logo_1187589996" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_792891536"><img class="logo_image" src="//partiso.axiomthemes.com/wp-content/uploads/2018/10/logo.png" alt="Partiso" width="217" height="57"></a><!-- /.sc_layouts_logo -->
+                                                <a href="https://partiso.axiomthemes.com/" id="trx_sc_layouts_logo_1187589996" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_792891536"><img class="logo_image" src="//partiso.axiomthemes.com/wp-content/uploads/2018/10/logo.png" alt="Partiso" width="217" height="57"></a><!-- /.sc_layouts_logo -->
                                             </div>
                                         </div>
                                     </div>
@@ -47,7 +47,7 @@
 				</div>
 				<div class="sc_layouts_item elementor-element elementor-element-1cfe7a0 sc_layouts_hide_on_tablet sc_layouts_hide_on_mobile sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="1cfe7a0" data-element_type="widget" data-widget_type="trx_sc_button.default">
 				<div class="elementor-widget-container">
-			<a href="http://partiso.axiomthemes.com/volunteer/" id="trx_sc_button_232836946" class="sc_button hide_on_mobile hide_on_tablet color_style_link2 sc_button_default sc_button_size_extra_small sc_button_icon_left"><span class="sc_button_text"><span class="sc_button_title">Contribute</span></span><!-- /.sc_button_text --></a><!-- /.sc_button -->		</div>
+			<a href="https://partiso.axiomthemes.com/volunteer/" id="trx_sc_button_232836946" class="sc_button hide_on_mobile hide_on_tablet color_style_link2 sc_button_default sc_button_size_extra_small sc_button_icon_left"><span class="sc_button_text"><span class="sc_button_title">Contribute</span></span><!-- /.sc_button_text --></a><!-- /.sc_button -->		</div>
 				</div>
 						</div>
                                 </div>
@@ -64,7 +64,7 @@
                                     <div class="elementor-widget-wrap">
                                         <div class="sc_layouts_item elementor-element elementor-element-e690d13 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="e690d13" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
                                             <div class="elementor-widget-container">
-                                                <a href="http://partiso.axiomthemes.com/" id="trx_sc_layouts_logo_241014902" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1402852268"><img class="logo_image" src="//partiso.axiomthemes.com/wp-content/uploads/2018/10/logo.png" alt="Partiso" width="217" height="57"></a><!-- /.sc_layouts_logo -->
+                                                <a href="https://partiso.axiomthemes.com/" id="trx_sc_layouts_logo_241014902" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1402852268"><img class="logo_image" src="//partiso.axiomthemes.com/wp-content/uploads/2018/10/logo.png" alt="Partiso" width="217" height="57"></a><!-- /.sc_layouts_logo -->
                                             </div>
                                         </div>
                                     </div>

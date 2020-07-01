@@ -104,13 +104,13 @@
 
 <style scoped>
 .elementor-section.elementor-section-stretched {
-    background: linear-gradient(rgba(29, 38, 113, 0.8), rgba(36, 28, 31, 0.425)), url("http://partiso.axiomthemes.com/wp-content/uploads/2018/10/post-6-copyright.jpg");
+    background: linear-gradient(rgba(29, 38, 113, 0.8), rgba(36, 28, 31, 0.425)), url("https://partiso.axiomthemes.com/wp-content/uploads/2018/10/post-6-copyright.jpg");
     /* The least supported option. */
     background-position: center center;
     background-attachment: fixed;
     height: 80vh;
     background-size: cover;
-    /* background: linear-gradient(to bottom, rgba(100, 100, 0, 0.5), rgba(100, 100, 0, 0.5)) cover, url(http://partiso.axiomthemes.com/wp-content/uploads/2018/10/post-6-copyright.jpg) 0 0 no-repeat fixed;  */
+    /* background: linear-gradient(to bottom, rgba(100, 100, 0, 0.5), rgba(100, 100, 0, 0.5)) cover, url(https://partiso.axiomthemes.com/wp-content/uploads/2018/10/post-6-copyright.jpg) 0 0 no-repeat fixed;  */
 }
 
 .elementor-452 .elementor-element.elementor-element-58daf8a {

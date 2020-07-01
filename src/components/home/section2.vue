@@ -33,7 +33,7 @@
                                                 </div>
                                                 <div class="elementor-element elementor-element-8dd9bfe sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="8dd9bfe" data-element_type="widget" data-widget_type="trx_sc_button.default">
                                                     <div class="elementor-widget-container">
-                                                        <div class="sc_item_button sc_button_wrap sc_align_left"><a href="http://partiso.axiomthemes.com/our-principles/" id="trx_sc_button_131804468" class="sc_button color_style_dark sc_button_bordered sc_button_size_small sc_button_icon_top"><span class="sc_button_text"><span class="sc_button_title">GET INVOLVED</span></span><!-- /.sc_button_text --></a><!-- /.sc_button -->
+                                                        <div class="sc_item_button sc_button_wrap sc_align_left"><a href="https://partiso.axiomthemes.com/our-principles/" id="trx_sc_button_131804468" class="sc_button color_style_dark sc_button_bordered sc_button_size_small sc_button_icon_top"><span class="sc_button_text"><span class="sc_button_title">GET INVOLVED</span></span><!-- /.sc_button_text --></a><!-- /.sc_button -->
                                                         </div><!-- /.sc_item_button -->
                                                     </div>
                                                 </div>
@@ -75,7 +75,7 @@
     padding: 23px 0px 0px 10px;
 }
 .elementor-464 .elementor-element.elementor-element-44c6e82:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-464 .elementor-element.elementor-element-44c6e82 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
-    background-image: url(http://partiso.axiomthemes.com/wp-content/uploads/2018/10/img-4-copyright.png);
+    background-image: url(https://partiso.axiomthemes.com/wp-content/uploads/2018/10/img-4-copyright.png);
     background-position: top center;
     background-size: cover;
 }

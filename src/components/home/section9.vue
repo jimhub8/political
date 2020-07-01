@@ -43,7 +43,7 @@ export default {
 <style scoped>
 .elementor-464 .elementor-element.elementor-element-daabc28:not(.elementor-motion-effects-element-type-background),
 .elementor-464 .elementor-element.elementor-element-daabc28>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("http://partiso.axiomthemes.com/wp-content/uploads/2018/10/bg-3-copyright.jpg");
+    background-image: url("https://partiso.axiomthemes.com/wp-content/uploads/2018/10/bg-3-copyright.jpg");
     background-position: center right;
 
     background-size: cover;

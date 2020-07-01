@@ -65,7 +65,7 @@
 
 .elementor-464 .elementor-element.elementor-element-973d8ae:not(.elementor-motion-effects-element-type-background)>.elementor-column-wrap,
 .elementor-464 .elementor-element.elementor-element-973d8ae>.elementor-column-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url(http://partiso.axiomthemes.com/wp-content/uploads/2018/10/post-1-copyright.jpg);
+    background-image: url(https://partiso.axiomthemes.com/wp-content/uploads/2018/10/post-1-copyright.jpg);
     background-position: center center;
     background-size: cover;
 	height: 400px;

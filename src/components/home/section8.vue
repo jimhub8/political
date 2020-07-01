@@ -15,7 +15,7 @@
                         <div class="elementor-element elementor-element-4a6e133 scheme_dark sc_fly_static elementor-widget elementor-widget-trx_sc_title" data-id="4a6e133" data-element_type="widget" data-widget_type="trx_sc_title.default">
                             <div class="elementor-widget-container">
                                 <div id="trx_sc_title_678422196" class="sc_title scheme_dark sc_title_default">
-                                    <h4 class="sc_item_title sc_title_title sc_align_center sc_item_title_style_default sc_item_title_tag"><span class="sc_item_title_text"><i>Take part </i> in the building of a brighter future</span></h4>
+                                    <h4 class="sc_item_title sc_title_title sc_align_center sc_item_title_style_default sc_item_title_tag"><span class="sc_item_title_text"><i class="impact">Take part </i> in the building of a brighter future</span></h4>
                                 </div><!-- /.sc_title -->
                             </div>
                         </div>
@@ -117,4 +117,9 @@
         padding: 0 !important;
     }
 }
+
+div.scheme_dark .sc_countdown_default .sc_countdown_digits span {
+    margin-top: -40px;
+}
+
 </style>

@@ -1,8 +1,8 @@
 
-i.impact {
+.impact {
 
-    font-family: 'Tangerine', serif;
-    font-size: 48px;
+    font-family: 'Tangerine', serif !important;
+    font-size: 48px !important;
 }
 
 /*! =========================================================

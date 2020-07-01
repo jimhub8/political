@@ -21,22 +21,22 @@ export default {
     data() {
         return {
             items: [{
-                image: 'http://partiso.axiomthemes.com/wp-content/uploads/2018/10/post-3-copyright-1170x858.jpg',
+                image: 'https://partiso.axiomthemes.com/wp-content/uploads/2018/10/post-3-copyright-1170x858.jpg',
                 date: 'Jan 4, 2020',
                 content: 'The Campaign Report: We Do What’s in the Best Interests of the Nation',
                 by: '',
             }, {
-                image: 'http://partiso.axiomthemes.com/wp-content/uploads/2018/10/post-4-copyright-1170x858.jpg',
+                image: 'https://partiso.axiomthemes.com/wp-content/uploads/2018/10/post-4-copyright-1170x858.jpg',
                 date: 'Jan 4, 2020',
                 content: 'Meet & Greet with the Candidates in October/November',
                 by: '',
             }, {
-                image: 'http://partiso.axiomthemes.com/wp-content/uploads/2018/10/post-5-copyright-1170x858.jpg',
+                image: 'https://partiso.axiomthemes.com/wp-content/uploads/2018/10/post-5-copyright-1170x858.jpg',
                 date: 'Jan 4, 2020',
                 content: 'What You Need to Know Before Voting: Independent Opinion',
                 by: '',
             }, {
-                image: 'http://partiso.axiomthemes.com/wp-content/uploads/2018/10/post-6-copyright-1170x858.jpg',
+                image: 'https://partiso.axiomthemes.com/wp-content/uploads/2018/10/post-6-copyright-1170x858.jpg',
                 date: 'Jan 4, 2020',
                 content: 'What are the Most Successful Methods to Fight Against Tax Scam',
                 by: '',
