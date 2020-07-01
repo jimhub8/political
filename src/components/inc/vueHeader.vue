@@ -24,16 +24,13 @@
                                             <div class="elementor-widget-container">
                                                 <nav class="sc_layouts_menu sc_layouts_menu_default sc_layouts_menu_dir_horizontal menu_hover_fade inited" id="trx_sc_layouts_menu_1782147900" data-animation-in="fadeIn" data-animation-out="fadeOut">
                                                     <ul id="menu_main" class="sc_layouts_menu_nav menu_main_nav inited sf-js-enabled sf-arrows" style="touch-action: pan-y;">
-                                                        <li id="menu-item-205" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-205"><router-link to="/" class="sf-with-ul"><span>Home</span></router-link>
+                                                        <li id="menu-item-205" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent  menu-item-205"><router-link to="/" class=""><span>Home</span></router-link>
                                                         </li>
-                                                        <li id="menu-item-251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-251">
+                                                        <li id="menu-item-251" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-251">
                                                             <router-link to="about"><span>About Us</span></router-link>
                                                             
                                                         </li>
                                                         <li id="menu-item-228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-228"><router-link to="contact"><span>Contacts</span></router-link></li>
-                                                        <li class="menu-item menu-collapse" style="display: none;"><a href="#" class="sf-with-ul trx_addons_icon-ellipsis-vert"></a>
-                                                            <ul class="submenu"></ul>
-                                                        </li>
                                                     </ul>
                                                 </nav><!-- /.sc_layouts_menu -->
                                             </div>
